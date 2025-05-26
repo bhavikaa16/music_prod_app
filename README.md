@@ -6,25 +6,7 @@ To build this project, I followed the MVVM architecture to maintain a clean sepa
 
 ## 📂 Folder Structure
 
-lib/
-│
-├── models/                  # Data models (ServiceModel)
-│
-├── repository/              # Firebase interaction logic
-│   └── service_repository.dart
-│
-├── view/                    # Screens (UI layer)
-│   ├── home_screen.dart
-│   └── details_screen.dart
-│
-├── view_model/              # State + business logic
-│   └── service_view_model.dart
-│
-├── widgets/                 # Reusable UI components
-│   ├── service_loc.dart
-│   └── top_banner.dart
-│
-└── main.dart                # App entry point
+![image](https://github.com/user-attachments/assets/8f1b3d72-f7e7-4524-ae8d-aa0327aa0c61)
 
 
 
