@@ -53,7 +53,6 @@ lib/
 
 
 
-## Getting Started
 
 
 
