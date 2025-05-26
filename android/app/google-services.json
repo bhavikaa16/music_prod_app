@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149869097527",
+    "project_id": "intershippro-fcdea",
+    "storage_bucket": "intershippro-fcdea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149869097527:android:5527f6cb9f1f2d7e0ec5b2",
+        "android_client_info": {
+          "package_name": "com.example.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCywZ1vUbmmic5DIrj4VT7DaWdvmCXYl0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
